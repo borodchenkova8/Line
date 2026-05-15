@@ -36,6 +36,3 @@
 1. Склонируйте репозиторий или скачайте архив с кодом.
 2. Откройте файл `index.html` в браузере.
 *Примечание: для полной проверки функций PWA (manifest и service worker) рекомендуется использовать локальный сервер, например, расширение Live Server в VS Code.*
-
-https://github.com/user-attachments/assets/5a75223d-fede-461b-b671-f4e555aae49b
-
